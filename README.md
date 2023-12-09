@@ -4,11 +4,11 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/IShiraiKurokoI/count.svg" alt="IShiraiKurokoI :: Visitor's Count" /></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=IShiraiKurokoI&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=IShiraiKurokoI&count_private=true&show_icons=true&theme=ambient_gradient" />
 </a>
 
-<a href="https://github.com/IShiraiKurokoI/ToolsFx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShiraiKurokoI&layout=compact&theme=dracula" />
+<a href="https://github.com/IShiraiKurokoI/DLUTToolBoxV3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShiraiKurokoI&layout=compact&theme=ambient_gradient" />
 </a>
 
 <br/>
