@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=IShiraiKurokoI&count_private=true&show_icons=true&theme=ambient_gradient" />
 </a>
 
-<a href="https://github.com/IShiraiKurokoI/DLUTToolBoxV3">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShiraiKurokoI&layout=donut&theme=ambient_gradient&hide_title=true&exclude_repo=banner" />
 </a>
 
