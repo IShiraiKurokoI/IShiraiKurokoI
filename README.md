@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/IShiraiKurokoI/DLUTToolBoxV3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShiraiKurokoI&layout=donut&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShiraiKurokoI&layout=pie&theme=ambient_gradient" />
 </a>
 
 <br/>
